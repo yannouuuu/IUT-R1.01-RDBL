@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yannouuuu/IUT-R1.01-RDBL/raw/main/.github/assets/header_univlille_light.png" width="200px">
-        <img alt="UnivLilleLogo" src="https://github.com/yannouuuu/IUT-R1.01-RDBL/raw/main/.github/assets/header_univlille_dark.png" width="200px">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yannouuuu/IUT-SAE1.01/raw/main/.github/assets/header_univlille_light.png" width="200px">
+        <img alt="UnivLilleLogo" src="https://github.com/yannouuuu/IUT-SAE1.01/raw/main/.github/assets/header_univlille_dark.png" width="200px">
     </picture>
   <h1 align="center">IUT-R1.01-RDBL</h1>
 </p>
