@@ -87,10 +87,14 @@ La semaine dernière nous avons oublié d'écrire une fonction pratique pour mod
         String newImage = "";
         int imageSize = size(image);
         int idxStart  = line * imageSize * 9 + column * 9;
-        // on copie ce qui est avant le pixel (éventuellement rien)
+        // on copie ce qui est avant le pixel (possiblement rien)
+        newImage = newImage + substring(image, 0, idxStart);
         // on ajoute la nouvelle couleur
+        newImage = newImage + color;
         // on copie ce qui est après le pixel
+        newImage = newImage + substring(image, idxStart + 9, length(image));
         return newImage;
+ 
     }
 ```
 
