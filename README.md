@@ -25,16 +25,13 @@
 - [TP 6 : Fonctions de tests, fonctions plus élaborées, pratiques des structures de contrôle imbriquées (9 oct / DS1)](./tp6/)
 - [TP 7 : Première structure de données : le tableau (14 oct)](./tp7/)
 - [TP 8 : Entraînement sur les tableaux (21 oct)](./tp8/)
-
-### Thèmes des semaines à venir
-
-- **Semaine 9 (5 nov.)**: Les tableaux multi-dimensionnels - Jeu de la vie *(Non disponible)*
-- **Semaine 10 (7 nov.)**: Créer ses propres fonctions pour décomposer un problème *(Non disponible)*
-- **Semaine 11 (14 nov.)**: Créer ses propres types et décomposition + Fichier *(Non disponible)*
-- **Semaine 12 (21 nov.)**: Fichier et persistances + Styles de Code *(Non disponible)*
-- **Semaine 13 (28 nov.)**: LetterPress + Notion de récursivité et algorithme récursif *(Non disponible)*
-- **Semaine 14 (5 déc.)**: Prog. événementielle et graphique *(Non disponible)*
-- **Semaine 15 (12 déc.)**: Prépa DS *(Non disponible)*
+- [TP 9 : Les tableaux multi-dimensionnels - Jeu de la vie (5 nov)](./tp9/)
+- [TP 10 : Créer ses propres fonctions pour décomposer un problème (7 nov)](./tp10/)
+- [TP 11 : Créer ses propres types et décomposition + Fichier (14 nov)](./tp11/)
+- [TP 12 : Fichier et persistances + Styles de Code (21 nov)](./tp12/)
+- [TP 13 : LetterPress + Notion de récursivité et algorithme récursif (28 nov)](./tp13/)
+- [TP 14 : Prog. événementielle et graphique (5 déc)](./tp14/)
+- [TP 15 : Prépa DS (12 déc)](./tp15/)
 
 ### Conseils/Commandes pratiques
 
